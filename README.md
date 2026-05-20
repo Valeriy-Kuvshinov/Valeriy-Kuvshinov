@@ -75,12 +75,12 @@ I build real-time systems, backend infrastructure, and full-stack applications.
 
 <h2>GitHub Stats</h2>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Valeriy-Kuvshinov&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> 
-</p> 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Valeriy-Kuvshinov&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valeriy-Kuvshinov&layout=compact&theme=tokyonight&hide_border=true" height="165"/> 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valeriy-Kuvshinov&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Valeriy-Kuvshinov/Valeriy-Kuvshinov/output/github-contribution-grid-snake.svg)
