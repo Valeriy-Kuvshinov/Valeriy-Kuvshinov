@@ -74,8 +74,9 @@ I build real-time systems, backend infrastructure, and full-stack applications.
 </p>
 
 <h2>GitHub Stats</h2>
-![Snake animation](https://github.com/Valeriy-Kuvshinov/Valeriy-Kuvshinov/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://raw.githubusercontent.com/Valeriy-Kuvshinov/Valeriy-Kuvshinov/output/github-contribution-grid-snake.svg)
 
-
-------------
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
