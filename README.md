@@ -1,165 +1,81 @@
-# Hi, I'm Valeriy Kuvshinov 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />     
 
-## Full Stack Engineer | Distributed Systems & Backend Development | Freelance
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, Valeriy Kuvshinov here!</h1>
+<p>
+  <a href="https://github.com/Valeriy-Kuvshinov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/valeriy-kuvshin-ov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.youtube.com/@valeriykuvshinov"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-Full Stack Engineer with over 2 years experience building distributed systems, real-time backend infrastructure, and full-stack web applications.
+<h2>Full Stack Engineer | Backend & Distributed Systems | Freelance</h2>
+I build real-time systems, backend infrastructure, and full-stack applications.
 
-Experienced in designing and deploying production systems using Docker, Linux, WebSockets, and cloud-based object storage architectures (Amazon S3-compatible systems). Worked on real-time telecom infrastructure, session orchestration systems, secure authentication workflows, and cloud VPS deployments.
+<h2>Some of my Focuses:</h2>
+<ul>
+  <li>Backend engineering</li>
+  <li>Frontend development</li>
+  <li>Distributed systems</li>
+  <li>Linux infrastructure</li>
+  <li>Real-time communication systems</li>
+  <li>Cloud deployments</li>
+  <li>Low-level tooling</li>
+</ul>
 
-Currently studying Software Engineering at the Open University of Israel.
+<h2>My Tech Stack</h2>
+<p>
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />       
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />      
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />  
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />   
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-plain-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+  <img height=64 width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" />  
+</p>
 
----
+<h2>GitHub Stats</h2>
+![Snake animation](https://github.com/Valeriy-Kuvshinov/Valeriy-Kuvshinov/blob/output/github-contribution-grid-snake.svg)
 
-## Tech & Tools
 
-### Backend & Infrastructure
 
-* Node.js
-* Express.js
-* Spring Boot
-* REST APIs
-* WebSockets
-* Docker
-* Nginx
-* Linux
-* CI/CD
-* MongoDB
-* SSH
-* Tailscale
-* Cloudflare R2 (Amazon S3-compatible storage)
-* Cloudinary
-
-### Frontend
-
-* React
-* Next.js
-* Angular
-* Electron
-* TypeScript
-* JavaScript
-* HTML5
-* CSS
-* Zustand
-* TanStack
-* NgRx
-* RxJS
-
-### Systems & Low-Level
-
-* C
-* Python
-* Bash
-* PowerShell
-* JavaFX
-* Serial Communication
-* AT Command Processing
-
----
-
-## Experience
-
-### The Vision — Secure Distributed Systems
-
-Worked on distributed communication infrastructure integrating Raspberry Pi modem clients, Spring Boot backend services, and Electron + React frontend applications.
-
-Key areas:
-
-* Real-time SMS / call / data operations
-* WebSocket orchestration systems
-* SSH and VPN-based distributed infrastructure
-* Linux production deployments
-* Low-level modem communication services in C and Python
-* Oracle Cloud deployments and automation
-
----
-
-### Noffty Productions — Web / Game Platform Infrastructure
-
-Built and maintained an HTML5 game hosting platform using Cloudflare R2 object storage.
-
-Key areas:
-
-* Full-stack Next.js + Node.js platform development
-* JWT authentication and role-based access control
-* MongoDB metadata management
-* Cloudinary image delivery pipelines
-* Docker + Nginx deployment workflows
-* VPS deployments on Hostinger infrastructure
-
----
-
-### Micro Mineral Israel — E-Commerce & Accessibility
-
-Worked on WordPress and WooCommerce infrastructure improvements.
-
-Key areas:
-
-* Payment integration debugging
-* Accessibility improvements
-* UI consistency and maintenance
-* Production troubleshooting and support
-
----
-
-## Open Source
-
-### CModem-Terminal
-
-Production-oriented C11 CLI tool for serial modem communication and AT command execution.
-
-Focus areas:
-
-* Serial communication
-* Modem control
-* Telecom tooling
-* Linux terminal workflows
-* Distributed telecom environments
-
----
-
-## Education
-
-### Open University of Israel
-
-**B.Sc. Software Engineering** *(2024 – Present)*
-
-Relevant coursework:
-
-* Systems Programming (ANSI C)
-* Java
-* MIPS Assembly
-
-### Coding Academy Israel
-
-**Full Stack Development Bootcamp** *(2023)*
-
-Focused on modern JavaScript / TypeScript full-stack development.
-
----
-
-## Languages
-
-* Hebrew
-* English
-* Russian
-
----
-
-## Contact
-
-* [LinkedIn](https://www.linkedin.com/in/valeriy-kuvshin-ov/)
-* Email: [valerykuvshinuv@gmail.com](mailto:valerykuvshinuv@gmail.com)
-
----
-
-## Current Focus
-
-Interested in:
-
-* Backend Engineering
-* Frontend Engineering
-* Full Stack Development
-* Distributed Systems
-* Infrastructure Engineering
-* Real-time Systems
-* Linux-based Production Environments
+------------
